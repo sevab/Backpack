@@ -1,4 +1,4 @@
-Learning-Resources
-==================
+**Learning-Resources:**
+a collection of links
 
-Collection of links
+See Issues
