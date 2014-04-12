@@ -1,10 +1,10 @@
 ### Books
-- [ ] [New eBook: JavaScript Patterns JumpStart Guide - Clean up your JavaScript Code](http://weblogs.asp.net/dwahlin/archive/2013/09/01/new-ebook-javascript-patterns-jumpstart-guide-clean-up-your-javascript-code.aspx)
-- [ ] [JavaScript Patterns](http://shichuan.github.io/javascript-patterns/)
+* [New eBook: JavaScript Patterns JumpStart Guide - Clean up your JavaScript Code](http://weblogs.asp.net/dwahlin/archive/2013/09/01/new-ebook-javascript-patterns-jumpstart-guide-clean-up-your-javascript-code.aspx)
+* [JavaScript Patterns](http://shichuan.github.io/javascript-patterns/)
 
 
 ### Libraries
-- [ ] [Form validations](https://www.codefellows.org/blogs/the-ten-best-javascript-libraries-for-form-validation-and-formatting)
+* [Form validations](https://www.codefellows.org/blogs/the-ten-best-javascript-libraries-for-form-validation-and-formatting)
 
 ### MVCs & Other Libs
 #### Angular
@@ -14,5 +14,5 @@
 * [A Better Way to Learn AngularJS](http://www.thinkster.io/pick/GtaQ0oMGIl/a-better-way-to-learn-angularjs?ref=twt)
 
 #### Node
-##### [Nodeschool](http://nodeschool.io/)
+* [Nodeschool](http://nodeschool.io/)
 
