@@ -13,6 +13,10 @@
 * [AngularJS: An Overview](http://glennstovall.com/blog/2013/06/27/angularjs-an-overview/)
 * [A Better Way to Learn AngularJS](http://www.thinkster.io/pick/GtaQ0oMGIl/a-better-way-to-learn-angularjs?ref=twt)
 
-#### Node
+#### Backbone
+* [Backbone integration w/ Rails + testing w/ Jasmine](http://www.youtube.com/watch?v=FkLVl3gpJP4)
+
+
+### Node
 * [Nodeschool](http://nodeschool.io/)
 
