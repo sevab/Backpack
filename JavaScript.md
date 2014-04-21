@@ -14,7 +14,8 @@
 * [A Better Way to Learn AngularJS](http://www.thinkster.io/pick/GtaQ0oMGIl/a-better-way-to-learn-angularjs?ref=twt)
 
 #### Backbone
-* [Backbone integration w/ Rails + testing w/ Jasmine](http://www.youtube.com/watch?v=FkLVl3gpJP4)
+* [Backbone integration w/ Rails + testing w/ Jasmine example](http://www.youtube.com/watch?v=FkLVl3gpJP4)
+* [Backbone Screencasts assuming Rails + CoffeeScript][http://www.backbonerails.com/]
 
 
 ### Node
