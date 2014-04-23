@@ -1,6 +1,7 @@
 ### Books
 * [New eBook: JavaScript Patterns JumpStart Guide - Clean up your JavaScript Code](http://weblogs.asp.net/dwahlin/archive/2013/09/01/new-ebook-javascript-patterns-jumpstart-guide-clean-up-your-javascript-code.aspx)
 * [JavaScript Patterns](http://shichuan.github.io/javascript-patterns/)
+* [An extensive list of various resources on JS](http://superherojs.com/)
 
 
 ### Libraries
