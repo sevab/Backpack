@@ -1,0 +1,2 @@
+- [Stripe's catch the flag](https://stripe-ctf.com)
+- [Top algirithms needed to solve some of technical interview questions](http://www.quora.com/Algorithms/What-are-the-10-algorithms-one-must-know-in-order-to-solve-most-algorithm-challenges-puzzles/answer/Brian-Bi)
