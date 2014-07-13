@@ -9,3 +9,7 @@
 
 # CSS
 * [Keep a watchful eye on your css colors.](https://github.com/SlexAxton/css-colorguard)
+
+
+# Colors
+* [ Random pleasing colors generator](https://github.com/Fooidge/PleaseJS)
