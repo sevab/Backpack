@@ -11,3 +11,7 @@
 
 ### Sys
 * [Sysadmin Casts](http://sysadmincasts.com/)
+
+
+### Rails Deployment
+* [Deploy Ruby On Rails on Ubuntu 14.04](https://gorails.com/deploy/ubuntu/14.04)
