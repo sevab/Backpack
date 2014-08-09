@@ -12,4 +12,8 @@
 
 
 # Colors
-* [ Random pleasing colors generator](https://github.com/Fooidge/PleaseJS)
+* [Random pleasing colors generator](https://github.com/Fooidge/PleaseJS)
+
+# HTML
+## Email temlates
+* [Open Source Email Templates](https://github.com/sendwithus/templates)
