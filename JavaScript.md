@@ -7,6 +7,8 @@
 ### Libraries
 * [Form validations](https://www.codefellows.org/blogs/the-ten-best-javascript-libraries-for-form-validation-and-formatting)
 * [Rome: depenendency-free date & time picker](https://github.com/bevacqua/rome)
+#### Charts
+[D3-based reusable chart library](http://c3js.org/examples.html)
 
 ### MVCs & Other Libs
 #### Angular
