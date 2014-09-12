@@ -22,3 +22,9 @@
 # HTML
 ## Email temlates
 * [Open Source Email Templates](https://github.com/sendwithus/templates)
+
+
+
+# Animation
+* [Velocity.js](https://github.com/julianshapiro/velocity)
+* [Animate.css](https://github.com/daneden/animate.css)
