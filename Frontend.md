@@ -15,6 +15,8 @@
 # CSS
 * [Keep a watchful eye on your css colors.](https://github.com/SlexAxton/css-colorguard)
 
+## Custom form elements
+[CSS-only custom-styled selects v8](http://filamentgroup.github.io/select-css/demo/)
 
 # Colors
 * [Random pleasing colors generator](https://github.com/Fooidge/PleaseJS)
@@ -28,3 +30,6 @@
 # Animation
 * [Velocity.js](https://github.com/julianshapiro/velocity)
 * [Animate.css](https://github.com/daneden/animate.css)
+
+# Graphics
+* [The Bézier Game: A game to help you master the pen tool](http://bezier.method.ac)
