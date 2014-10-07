@@ -5,6 +5,7 @@
 * [CIRCULAR PROGRESS BUTTON](http://tympanus.net/Tutorials/CircularProgressButton/)
 
 # Misc
+* [A beautiful replacement for JavaScript's "alert"](https://github.com/t4t5/sweetalert)
 * [Subtle Background Patterns](http://subtlepatterns.com/)
 
 
