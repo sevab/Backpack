@@ -21,6 +21,7 @@
 
 # Colors
 * [Random pleasing colors generator](https://github.com/Fooidge/PleaseJS)
+* [Dope gradients](http://elrumordelaluz.github.io/draGGradients/#)
 
 # HTML
 ## Email temlates
