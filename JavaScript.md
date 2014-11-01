@@ -9,7 +9,8 @@
 * [Rome: depenendency-free date & time picker](https://github.com/bevacqua/rome)
 
 #### Charts
-[D3-based reusable chart library](http://c3js.org/examples.html)
+* [D3-based reusable chart library](http://c3js.org/examples.html)
+* [NVD3](http://nvd3.org/)
 
 ### MVCs & Other Libs
 #### Angular
