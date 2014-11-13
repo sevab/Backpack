@@ -4,8 +4,8 @@
 - [Rails - the Missing Parts - Interactors](http://eng.joingrouper.com/blog/2014/03/03/rails-the-missing-parts-interactors)
 - [Rails - the Missing Parts - Policies](http://eng.joingrouper.com/blog/2014/03/20/rails-the-missing-parts-policies/)
 
-### Code optimization tools
-- New Relic
+### Code review & optimization tools
+- [Review your JavaScript, CoffeeScript, and Ruby code for style guide violations](https://houndci.com/)
 - [Code Climate. Automated Ruby Code Review](https://codeclimate.com/)
 
 ### Articles
