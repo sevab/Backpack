@@ -33,7 +33,7 @@
 # Animation
 * [Velocity.js](https://github.com/julianshapiro/velocity)
 * [Animate.css](https://github.com/daneden/animate.css)
-* [The Art of UI Animations](markgeyer.com/pres/the-art-of-ui-animations/#/)
+* [Article: The Art of UI Animations](markgeyer.com/pres/the-art-of-ui-animations/#/)
 
 # Graphics
 * [The Bézier Game: A game to help you master the pen tool](http://bezier.method.ac)
