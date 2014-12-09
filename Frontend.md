@@ -16,6 +16,7 @@
 
 # CSS
 * [Keep a watchful eye on your css colors.](https://github.com/SlexAxton/css-colorguard)
+* [Loading icons and small animations built purely in SVG, no CSS or JS](http://samherbert.net/svg-loaders/)
 
 ## Custom form elements
 [CSS-only custom-styled selects v8](http://filamentgroup.github.io/select-css/demo/)
