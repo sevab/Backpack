@@ -31,8 +31,14 @@
 
 
 # Animation
+## Effects
+* [Modal Entrance Animation](http://tympanus.net/Development/DialogEffects/index.html)
+
+## Libs
 * [Velocity.js](https://github.com/julianshapiro/velocity)
 * [Animate.css](https://github.com/daneden/animate.css)
+
+## Articles
 * [Article: The Art of UI Animations](markgeyer.com/pres/the-art-of-ui-animations/#/)
 
 # Graphics
