@@ -7,7 +7,7 @@
 # Misc
 * [A beautiful replacement for JavaScript's "alert"](https://github.com/t4t5/sweetalert)
 * [Subtle Background Patterns](http://subtlepatterns.com/)
-
+* [Notification Styles Inspiration](tympanus.net/Development/NotificationStyles/bar-exploader.html)
 
 # Fonts
 * [Selection of Google's Font Library prettiest font types](http://hellohappy.org/beautiful-web-type/?1)
