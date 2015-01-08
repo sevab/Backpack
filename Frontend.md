@@ -38,6 +38,7 @@
 ## Libs
 * [Velocity.js](https://github.com/julianshapiro/velocity)
 * [Animate.css](https://github.com/daneden/animate.css)
+* [PhotoSwipe.js: JavaScript photo gallery](http://photoswipe.com/)
 
 ## Articles
 * [Article: The Art of UI Animations](markgeyer.com/pres/the-art-of-ui-animations/#/)
