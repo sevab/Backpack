@@ -4,6 +4,7 @@
 
 ### Assets
 * [Advanced Image Optimization Tricks](http://sixrevisions.com/web-development/advanced-image-optimization/)
+* [Tips For Optimising SVG Delivery For The Web](calendar.perfplanet.com/2014/tips-for-optimising-svg-delivery-for-the-web/)
 
 ### CSS
 * [Style guide by a GitHub engineer](https://speakerdeck.com/bleikamp/sass-at-github)
