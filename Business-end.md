@@ -5,4 +5,5 @@
 
 
 # Law
-[Hiring a Startup Lawyer](adlervermillion.com/tech-law-link-list-hiring-lawyers/)
+* [Lecture 18: Legal and Accounting Basics for Startups](http://startupclass.samaltman.com/courses/lec18/)
+* [Hiring a Startup Lawyer](adlervermillion.com/tech-law-link-list-hiring-lawyers/)
