@@ -25,6 +25,7 @@
 ## Style-guides
 * [Enduring CSS: writing style sheets for rapidly changing, long-lived projects](http://benfrain.com/enduring-css-writing-style-sheets-rapidly-changing-long-lived-projects/)
 * [Medium’s CSS is actually pretty f***ing good.](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06)
+* [An opinionated styleguide for writing sane, maintainable and scalable Sass.](sass-guidelin.es)
 
 # Colors
 * [Random pleasing colors generator](https://github.com/Fooidge/PleaseJS)
