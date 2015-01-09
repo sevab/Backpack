@@ -10,6 +10,7 @@
 
 #### Charts
 * [D3-based reusable chart library](http://c3js.org/examples.html)
+* [MetricsGraphics.js: time-series data charts based on D3](metricsgraphicsjs.org)
 * [NVD3](http://nvd3.org/)
 
 ### MVCs & Other Libs
