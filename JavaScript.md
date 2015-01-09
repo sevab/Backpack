@@ -5,6 +5,7 @@
 
 
 ### Libraries
+* [QuaggaJS is a barcode-scanner entirely written in JavaScript](http://serratus.github.io/quaggaJS/)
 * [Form validations](https://www.codefellows.org/blogs/the-ten-best-javascript-libraries-for-form-validation-and-formatting)
 * [Rome: depenendency-free date & time picker](https://github.com/bevacqua/rome)
 
