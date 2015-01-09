@@ -49,3 +49,6 @@
 
 # Demos
 * [Cool Pricing Tables](http://codyhouse.co/gem/pricing-tables/)
+
+# Assets
+* [SVG icon pack](http://evil-icons.io/)
