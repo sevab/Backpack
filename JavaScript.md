@@ -22,7 +22,7 @@
 
 #### Backbone
 * [Backbone integration w/ Rails + testing w/ Jasmine example](http://www.youtube.com/watch?v=FkLVl3gpJP4)
-* [Backbone Screencasts assuming Rails + CoffeeScript][http://www.backbonerails.com/]
+* [Backbone Screencasts assuming Rails + CoffeeScript](http://www.backbonerails.com/)
 
 
 ### Node
