@@ -19,7 +19,7 @@
 - [Cache Digests by DHH](https://github.com/rails/cache_digests)
 - [Advanced Caching: Part 6 - Fast JSON APIs](http://hawkins.io/2012/07/advanced_caching_part_6-fast_json_apis/)
 
-### Gems
 #### Search
 - [Ruby Amazon Web Services Cloud Search Interface](https://github.com/stevenjl/rawscsi)
 - [Simple ElasticSearch client with AR integration](https://github.com/printercu/elastics-rb)
+- [Postgres full-text search is Good Enough!](http://blog.lostpropertyhq.com/postgres-full-text-search-is-good-enough/)
