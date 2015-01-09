@@ -20,7 +20,11 @@
 * [CSS Gradient Animator](www.gradient-animator.com)
 
 ## Custom form elements
-[CSS-only custom-styled selects v8](http://filamentgroup.github.io/select-css/demo/)
+* [CSS-only custom-styled selects v8](http://filamentgroup.github.io/select-css/demo/)
+
+## Style-guides
+* [Enduring CSS: writing style sheets for rapidly changing, long-lived projects](http://benfrain.com/enduring-css-writing-style-sheets-rapidly-changing-long-lived-projects/)
+* [Medium’s CSS is actually pretty f***ing good.](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06)
 
 # Colors
 * [Random pleasing colors generator](https://github.com/Fooidge/PleaseJS)
