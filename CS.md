@@ -1,3 +1,5 @@
+[List of good university courses for learning Computer Science](https://github.com/prakhar1989/awesome-courses)
+
 # Machine Learning
 * [Using Machine Learning To Expose Haters.](kevinmcalear.com/thoughts/building-hater-news/)
 * [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
