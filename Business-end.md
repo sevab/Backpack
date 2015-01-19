@@ -7,3 +7,7 @@
 # Law
 * [Lecture 18: Legal and Accounting Basics for Startups](http://startupclass.samaltman.com/courses/lec18/)
 * [Hiring a Startup Lawyer](adlervermillion.com/tech-law-link-list-hiring-lawyers/)
+
+
+# Jobs & Salaries
+[Salary Negotiations for Techies](jacquesmattheij.com/Salary+negotiations+for+techies#)
