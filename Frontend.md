@@ -3,6 +3,7 @@
 * [Creative Button Styles](http://tympanus.net/Development/CreativeButtons/)
 * [Buttons with built-in loading indicators](https://github.com/hakimel/Ladda)
 * [CIRCULAR PROGRESS BUTTON](http://tympanus.net/Tutorials/CircularProgressButton/)
+* [A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG](ianlunn.github.io/Hover/)
 
 # Misc
 * [A beautiful replacement for JavaScript's "alert"](https://github.com/t4t5/sweetalert)
