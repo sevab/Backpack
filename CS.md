@@ -13,3 +13,8 @@
 # Distributed Computing
 * [Principles of Distributed Computing (ethz.ch)](https://news.ycombinator.com/item?id=8786079)
 * [Why are deep neural networks hard to train? (neuralnetworksanddeeplearning.com)](https://news.ycombinator.com/item?id=8719371)
+
+
+
+# Maths
+* [Eigenvectors and eigenvalues](http://setosa.io/ev/eigenvectors-and-eigenvalues/)
