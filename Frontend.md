@@ -31,6 +31,7 @@
 # Colors
 * [Random pleasing colors generator](https://github.com/Fooidge/PleaseJS)
 * [Dope gradients](http://elrumordelaluz.github.io/draGGradients/#)
+* [A very useful color picker tool by João Piedade with all the famous UI colors in one place.](tintui.com/index.html)
 
 # HTML
 ## Email temlates
