@@ -17,3 +17,6 @@
 - [Netflix Culture: Freedom & Responsibility](http://www.slideshare.net/reed2001/culture-1798664)
 - [Working at Netflix](http://www.brendangregg.com/blog/2015-01-20/working-at-netflix.html)
 - [Don’t Fuck Up the Culture](https://medium.com/@bchesky/dont-fuck-up-the-culture-597cde9ee9d4)
+
+# Management
+- [Cofounder management](www.aaronkharris.com/cofounder-management)
