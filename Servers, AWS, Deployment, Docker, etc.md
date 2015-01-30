@@ -1,5 +1,6 @@
 ### Docker
 * [Passenger Docker: A Docker base image for Ruby, Python, Node.js and Meteor web apps](https://github.com/phusion/passenger-docker)
+* [Rapid Rails Setup with Docker & Fig](dev.chaione.com/rapid-rails-setup-with-docker-and-fig/)
 * [Automated deployment with Docker – lessons learnt](https://www.hiddentao.com/archives/2013/12/26/automated-deployment-with-docker-lessons-learnt/)
 * [Getting Started With Docker](http://serversforhackers.com/articles/2014/03/20/getting-started-with-docker/)
 
