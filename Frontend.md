@@ -57,6 +57,7 @@
 
 ## SVG
 * [Picsvg: Convert Picture to Svg](http://picsvg.com/)
+* [SVG vector graphics files optimizer](https://jakearchibald.github.io/svgomg/)
 
 # Demos
 * [Cool Pricing Tables](http://codyhouse.co/gem/pricing-tables/)
