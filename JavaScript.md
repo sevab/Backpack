@@ -15,16 +15,12 @@
 * [NVD3](http://nvd3.org/)
 
 ### MVCs & Other Libs
-#### Angular
-##### Intro
-* [Why Does Angular.js Rock?](http://angular-tips.com/blog/2013/08/why-does-angular-dot-js-rock/)
-* [AngularJS: An Overview](http://glennstovall.com/blog/2013/06/27/angularjs-an-overview/)
-* [A Better Way to Learn AngularJS](http://www.thinkster.io/pick/GtaQ0oMGIl/a-better-way-to-learn-angularjs?ref=twt)
-
 #### Backbone
 * [Backbone integration w/ Rails + testing w/ Jasmine example](http://www.youtube.com/watch?v=FkLVl3gpJP4)
 * [Backbone Screencasts assuming Rails + CoffeeScript](http://www.backbonerails.com/)
 
+#### Ember.js
+* [Adding Flash Messages to an Ember App](https://medium.com/delightful-ui-for-ember-apps/adding-flash-messages-to-an-ember-app-437b13e49c1b)
 
 ### Node
 * [Nodeschool](http://nodeschool.io/)
