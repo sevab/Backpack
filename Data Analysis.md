@@ -1,1 +1,0 @@
-- [Introduction to Data Analysis in R](http://f.briatte.org/teaching/ida/index.html)
