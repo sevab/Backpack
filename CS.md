@@ -8,7 +8,6 @@
 * [The Open Source Data Science Masters: Curriculum for Data Science](datasciencemasters.org)
 * [List of ML resources in Russian](http://habrahabr.ru/post/243339/)
 
-
 ## Torch
 * [Torch: a scientific computing framework with wide support for machine learning algorithms](http://torch.ch/)
 * [iTorch: IPython Kernel for Torch, with plotting (using Bokeh.js plots) and visualization of images, video and audio](https://github.com/facebook/iTorch)
@@ -18,7 +17,8 @@
 * [Principles of Distributed Computing (ethz.ch)](https://news.ycombinator.com/item?id=8786079)
 * [Why are deep neural networks hard to train? (neuralnetworksanddeeplearning.com)](https://news.ycombinator.com/item?id=8719371)
 
-
-
 # Maths
 * [Eigenvectors and eigenvalues](http://setosa.io/ev/eigenvectors-and-eigenvalues/)
+
+# Data Analysis
+* [Introduction to Data Analysis in R](http://f.briatte.org/teaching/ida/index.html)
