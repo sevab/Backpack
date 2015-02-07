@@ -9,6 +9,7 @@
 * [Deep Learning Reading List (jmozah.github.io)](https://news.ycombinator.com/item?id=8813484)
 * [The Open Source Data Science Masters: Curriculum for Data Science](datasciencemasters.org)
 * [List of ML resources in Russian](http://habrahabr.ru/post/243339/)
+* [Tutorial: Practical Data Science in Python (Spam Detection using text ML)](radimrehurek.com/data_science_python/)
 
 ## Torch
 * [Torch: a scientific computing framework with wide support for machine learning algorithms](http://torch.ch/)
