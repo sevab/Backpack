@@ -5,6 +5,8 @@
 * [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
 * [Machine Learning Course by Tom Mitchell (read comments for more material & advise)](https://news.ycombinator.com/item?id=8771118)
 * [Deep Learning Reading List (jmozah.github.io)](https://news.ycombinator.com/item?id=8813484)
+* [The Open Source Data Science Masters: Curriculum for Data Science](datasciencemasters.org)
+
 ## Torch
 * [Torch: a scientific computing framework with wide support for machine learning algorithms](http://torch.ch/)
 * [iTorch: IPython Kernel for Torch, with plotting (using Bokeh.js plots) and visualization of images, video and audio](https://github.com/facebook/iTorch)
