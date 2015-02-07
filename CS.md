@@ -1,4 +1,6 @@
-[List of good university courses for learning Computer Science](https://github.com/prakhar1989/awesome-courses)
+* [List of good university courses for learning Computer Science](https://github.com/prakhar1989/awesome-courses)
+* [FREE PROGRAMMINGS TEXTBOOKS](https://github.com/vhf/free-programming-books)
+
 
 # Machine Learning
 * [Using Machine Learning To Expose Haters.](kevinmcalear.com/thoughts/building-hater-news/)
