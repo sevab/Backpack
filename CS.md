@@ -10,6 +10,7 @@
 * [The Open Source Data Science Masters: Curriculum for Data Science](datasciencemasters.org)
 * [List of ML resources in Russian](http://habrahabr.ru/post/243339/)
 * [Tutorial: Practical Data Science in Python (Spam Detection using text ML)](radimrehurek.com/data_science_python/)
+* [CS231n Convolutional Neural Networks for Visual Recognition](cs231n.github.io)
 
 ## Torch
 * [Torch: a scientific computing framework with wide support for machine learning algorithms](http://torch.ch/)
