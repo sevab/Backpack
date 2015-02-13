@@ -1,7 +1,8 @@
 [How to Start a Startup: Startup School](startupclass.samaltman.com)
 
 # Funding
-* [Opening our pitch deck that helped us get our $865M valuation](https://mixpanel.com/blog/2014/12/18/open-sourcing-our-pitch-deck-that-helped-us-get-our-865m-valuation)
+* [Pitch deck that helped us get our $865M valuation](https://mixpanel.com/blog/2014/12/18/open-sourcing-our-pitch-deck-that-helped-us-get-our-865m-valuation)
+* [How much should I raise in my angel round? How should I spend it?](http://calacanis.com/2015/01/21/how-much-should-i-raise-in-my-angel-round-how-should-i-spend-it/)
 
 
 # Law
