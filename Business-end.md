@@ -11,7 +11,8 @@
 
 
 # Jobs & Salaries
-[Salary Negotiations for Techies](jacquesmattheij.com/Salary+negotiations+for+techies#)
+* [Salary Negotiations for Techies](jacquesmattheij.com/Salary+negotiations+for+techies#)
+* [Salary, Equity & Options Experience](https://news.ycombinator.com/item?id=9052727)
 
 
 # Culture
