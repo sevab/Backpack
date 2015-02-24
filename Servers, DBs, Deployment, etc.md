@@ -28,3 +28,6 @@
 ## PosgreSQL
 * [Postgresqls powerful new join type lateral](http://blog.heapanalytics.com/postgresqls-powerful-new-join-type-lateral/)
 * [Speeding Up PostgreSQL With Partial Indexes](blog.heapanalytics.com/speeding-up-postgresql-queries-with-partial-indexes/)
+
+## Scaling
+* [How to Build Your Distributed Database (1/2)](http://citusdata.com/blog/114-how-to-build-your-distributed-database)
