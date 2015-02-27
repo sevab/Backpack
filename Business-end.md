@@ -22,3 +22,7 @@
 
 # Management
 - [Cofounder management](www.aaronkharris.com/cofounder-management)
+
+
+# A/B Testing
+- [Quantitative Studies: How Many Users to Test?](www.nngroup.com/articles/quantitative-studies-how-many-users/)
