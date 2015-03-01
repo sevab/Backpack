@@ -13,6 +13,7 @@
 * [D3-based reusable chart library](http://c3js.org/examples.html)
 * [MetricsGraphics.js: time-series data charts based on D3](http://metricsgraphicsjs.org)
 * [NVD3](http://nvd3.org/)
+* [Timesheet.js: Simple Timeline Visualization](sbstjn.github.io/timesheet.js/)
 
 ### MVCs & Other Libs
 #### Backbone
