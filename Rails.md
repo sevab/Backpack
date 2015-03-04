@@ -14,12 +14,15 @@
 ](http://blog.originate.com/blog/2014/02/27/improve-your-rails-specification-speed-by-10x/)
 - [Configuring Rails Environments](http://eng.joingrouper.com/blog/2014/09/02/configuring-rails-environments/)
 
+### Search
+- [Ruby Amazon Web Services Cloud Search Interface](https://github.com/stevenjl/rawscsi)
+- [Simple ElasticSearch client with AR integration](https://github.com/printercu/elastics-rb)
+- [Postgres full-text search is Good Enough!](http://blog.lostpropertyhq.com/postgres-full-text-search-is-good-enough/)
+
+## Performance
+### Benchamarking
+* [derailed_benchmarks: Benchmarks for your whole Rails app](https://github.com/schneems/derailed_benchmarks)
 
 ### Caching
 - [Cache Digests by DHH](https://github.com/rails/cache_digests)
 - [Advanced Caching: Part 6 - Fast JSON APIs](http://hawkins.io/2012/07/advanced_caching_part_6-fast_json_apis/)
-
-#### Search
-- [Ruby Amazon Web Services Cloud Search Interface](https://github.com/stevenjl/rawscsi)
-- [Simple ElasticSearch client with AR integration](https://github.com/printercu/elastics-rb)
-- [Postgres full-text search is Good Enough!](http://blog.lostpropertyhq.com/postgres-full-text-search-is-good-enough/)
