@@ -22,6 +22,7 @@
 
 #### Ember.js
 * [Adding Flash Messages to an Ember App](https://medium.com/delightful-ui-for-ember-apps/adding-flash-messages-to-an-ember-app-437b13e49c1b)
+* [ember-cli addons categorized & reviewed](http://emberobserver.com)
 
 ### Node
 * [Nodeschool](http://nodeschool.io/)
