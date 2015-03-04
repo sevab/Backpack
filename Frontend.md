@@ -16,6 +16,7 @@
 * [Find the perfect font combo for your next project.](www.typegenius.com)
 
 # CSS
+* [Flexbox in 5 minutes](http://flexboxin5.com/)
 * [Keep a watchful eye on your css colors.](https://github.com/SlexAxton/css-colorguard)
 * [Loading icons and small animations built purely in SVG, no CSS or JS](http://samherbert.net/svg-loaders/)
 * [CSS Gradient Animator](www.gradient-animator.com)
@@ -34,7 +35,6 @@
 * [A very useful color picker tool by João Piedade with all the famous UI colors in one place.](tintui.com/index.html)
 
 # HTML
-* [Flexbox in 5 minutes](http://flexboxin5.com/)
 
 ## Email temlates
 * [Open Source Email Templates](https://github.com/sendwithus/templates)
