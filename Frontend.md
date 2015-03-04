@@ -34,6 +34,8 @@
 * [A very useful color picker tool by João Piedade with all the famous UI colors in one place.](tintui.com/index.html)
 
 # HTML
+* [Flexbox in 5 minutes](http://flexboxin5.com/)
+
 ## Email temlates
 * [Open Source Email Templates](https://github.com/sendwithus/templates)
 
