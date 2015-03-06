@@ -19,6 +19,9 @@
 - [Simple ElasticSearch client with AR integration](https://github.com/printercu/elastics-rb)
 - [Postgres full-text search is Good Enough!](http://blog.lostpropertyhq.com/postgres-full-text-search-is-good-enough/)
 
+### Background Jobs
+- [Perform Rails-originated Sidekiq jobs in another language](www.neo.com/2014/08/11/ruby-elixir-polyglottin-ftw)
+
 ## Performance
 ### Benchamarking
 * [derailed_benchmarks: Benchmarks for your whole Rails app](https://github.com/schneems/derailed_benchmarks)
