@@ -3,6 +3,8 @@
 
 
 # Machine Learning
+* [Ruby Natural Language Processing Resources](https://github.com/diasks2/ruby-nlp)
+* [Simple Neural Network implementation in Ruby](www.rubylab.io/2015/03/18/simple-neural-network-implenentation-in-ruby/)
 * [Using Machine Learning To Expose Haters.](kevinmcalear.com/thoughts/building-hater-news/)
 * [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
 * [Machine Learning Course by Tom Mitchell (read comments for more material & advise)](https://news.ycombinator.com/item?id=8771118)
