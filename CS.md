@@ -13,6 +13,7 @@
 * [List of ML resources in Russian](http://habrahabr.ru/post/243339/)
 * [Tutorial: Practical Data Science in Python (Spam Detection using text ML)](radimrehurek.com/data_science_python/)
 * [CS231n Convolutional Neural Networks for Visual Recognition](cs231n.github.io)
+* [Why are deep neural networks hard to train?](neuralnetworksanddeeplearning.com)](https://news.ycombinator.com/item?id=8719371)
 
 ## Torch
 * [Torch: a scientific computing framework with wide support for machine learning algorithms](http://torch.ch/)
@@ -20,8 +21,8 @@
 * [Facebook's deep learning extensions to Torch](https://github.com/facebook/fbcunn)
 
 # Distributed Computing
+* [Introduction to Apache Mesos](http://www.antonlindstrom.com/2015/03/29/introduction-to-apache-mesos.html)
 * [Principles of Distributed Computing (ethz.ch)](https://news.ycombinator.com/item?id=8786079)
-* [Why are deep neural networks hard to train? (neuralnetworksanddeeplearning.com)](https://news.ycombinator.com/item?id=8719371)
 
 # Maths
 * [Eigenvectors and eigenvalues](http://setosa.io/ev/eigenvectors-and-eigenvalues/)
