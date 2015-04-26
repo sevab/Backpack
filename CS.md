@@ -14,6 +14,7 @@
 * [Tutorial: Practical Data Science in Python (Spam Detection using text ML)](radimrehurek.com/data_science_python/)
 * [CS231n Convolutional Neural Networks for Visual Recognition](cs231n.github.io)
 * [Why are deep neural networks hard to train?](neuralnetworksanddeeplearning.com)](https://news.ycombinator.com/item?id=8719371)
+* [Data Science from Scratch](shop.oreilly.com/product/0636920033400.do)
 
 ## Torch
 * [Torch: a scientific computing framework with wide support for machine learning algorithms](http://torch.ch/)
