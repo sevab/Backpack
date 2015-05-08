@@ -1,3 +1,9 @@
+## Security
+* [A basic guide to when and how to deploy HTTPS](http://erik.io/blog/2013/06/08/a-basic-guide-to-when-and-how-to-deploy-https/)
+
+
+***
+## Optimization
 ### Page Load
 * [Google's best practices](https://developers.google.com/speed/docs/best-practices/rules_intro), and [this ](https://developers.google.com/speed/pagespeed/)
 * [Speeding up trello boards](http://blog.fogcreek.com/we-spent-a-week-making-trello-boards-load-extremely-fast-heres-how-we-did-it/)
