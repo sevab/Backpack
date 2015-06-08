@@ -3,6 +3,7 @@
 * [Deploy Ruby On Rails on Ubuntu 14.04](https://gorails.com/deploy/ubuntu/14.04)
 
 ### Docker
+* [A quick introduction to Docker](http://odewahn.github.io/docker-jumpstart)
 * [Passenger Docker: A Docker base image for Ruby, Python, Node.js and Meteor web apps](https://github.com/phusion/passenger-docker)
 * [Rapid Rails Setup with Docker & Fig](dev.chaione.com/rapid-rails-setup-with-docker-and-fig/)
 * [Automated deployment with Docker – lessons learnt](https://www.hiddentao.com/archives/2013/12/26/automated-deployment-with-docker-lessons-learnt/)
