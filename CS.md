@@ -33,6 +33,7 @@
 * [Introduction to Data Analysis in R](http://f.briatte.org/teaching/ida/index.html)
 
 
-# Algorithms,  Exercises & Puzzles
+# Algorithms,  Exercises & Puzzles (for Interviews)
 * [Stripe's catch the flag](https://stripe-ctf.com)
+* [Exercises Preparing for Technical Coding Interviews](https://leetcode.com/)
 * [Top algirithms needed to solve some of technical interview questions](http://www.quora.com/Algorithms/What-are-the-10-algorithms-one-must-know-in-order-to-solve-most-algorithm-challenges-puzzles/answer/Brian-Bi)
