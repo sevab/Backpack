@@ -48,6 +48,7 @@
 * [Modal Entrance Animation](http://tympanus.net/Development/DialogEffects/index.html)
 * [Animated navigation icons, symbols and buttons using SVG and CSS](www.transformicons.com)
 * [Animate your 'action-to-effect' paths](https://github.com/chinchang/cta.js)
+* [CSS animation articles, tips and tutorials.](https://cssanimation.rocks)
 
 ## Libs
 * [Velocity.js](https://github.com/julianshapiro/velocity)
