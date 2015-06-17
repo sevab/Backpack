@@ -30,6 +30,7 @@
 * [An opinionated styleguide for writing sane, maintainable and scalable Sass.](sass-guidelin.es)
 
 # Colors
+* [Gradient placeholder based on image](gradifycss.com)
 * [Random pleasing colors generator](https://github.com/Fooidge/PleaseJS)
 * [Dope gradients](http://elrumordelaluz.github.io/draGGradients/#)
 * [Mathematically derived gradient explorer](http://jxnblk.com/shade/)
