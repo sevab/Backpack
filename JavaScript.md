@@ -4,10 +4,11 @@
 * [An extensive list of various resources on JS](http://superherojs.com/)
 
 
-### Libraries
+### Misc Libraries
 * [QuaggaJS is a barcode-scanner entirely written in JavaScript](http://serratus.github.io/quaggaJS/)
 * [Form validations](https://www.codefellows.org/blogs/the-ten-best-javascript-libraries-for-form-validation-and-formatting)
 * [Rome: depenendency-free date & time picker](https://github.com/bevacqua/rome)
+* [A Javascript Natural Language Parser](loadfive.com/os/knwl/)
 
 #### Charts
 * [D3-based reusable chart library](http://c3js.org/examples.html)
