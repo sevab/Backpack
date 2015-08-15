@@ -3,6 +3,7 @@
 
 
 # Machine Learning
+* [Oxford University Machine Learning Course](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
 * [Ruby Natural Language Processing Resources](https://github.com/diasks2/ruby-nlp)
 * [Simple Neural Network implementation in Ruby](www.rubylab.io/2015/03/18/simple-neural-network-implenentation-in-ruby/)
 * [Using Machine Learning To Expose Haters.](kevinmcalear.com/thoughts/building-hater-news/)
