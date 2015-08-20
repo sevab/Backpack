@@ -3,6 +3,7 @@
 
 
 # Machine Learning
+* [A Beginner’s Guide to Eigenvectors, Covariance, PCA and Entropy](http://deeplearning4j.org/eigenvector)
 * [Oxford University Machine Learning Course](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
 * [Ruby Natural Language Processing Resources](https://github.com/diasks2/ruby-nlp)
 * [Simple Neural Network implementation in Ruby](www.rubylab.io/2015/03/18/simple-neural-network-implenentation-in-ruby/)
