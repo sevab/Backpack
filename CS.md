@@ -32,6 +32,7 @@
 # Maths
 * [Eigenvectors and eigenvalues](http://setosa.io/ev/eigenvectors-and-eigenvalues/)
 * [Mathematics for Computer Science](ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/)
+* [Statistics for Hackers](https://speakerdeck.com/jakevdp/statistics-for-hackers)
 
 # Data Analysis
 * [Introduction to Data Analysis in R](http://f.briatte.org/teaching/ida/index.html)
