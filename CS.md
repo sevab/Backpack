@@ -3,6 +3,7 @@
 
 
 # Machine Learning
+* [Using Ruby Machine Learning to Find Paris Hilton Quotes](datamelon.io/blog/2015/using-ruby-machine-learning-id-paris-hilton-quotes.html)
 * [A Very Short Ruby-based Markov Model Explained](https://www.omniref.com/github/omniref/hn_title_generator/0.1.0/symbols/HNTitleGenerator::MarkovModel#line=11)
 * [A Beginner’s Guide to Eigenvectors, Covariance, PCA and Entropy](http://deeplearning4j.org/eigenvector)
 * [Oxford University Machine Learning Course](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
