@@ -31,3 +31,7 @@
 - [Cache Digests by DHH](https://github.com/rails/cache_digests)
 - [Advanced Caching: Part 6 - Fast JSON APIs](http://hawkins.io/2012/07/advanced_caching_part_6-fast_json_apis/)
 - [A Faster Way to Cache Complicated Data Models](https://www.justinweiss.com/blog/2015/03/03/a-faster-way-to-cache-complicated-data-models/)
+
+
+## Localization
+* [A Localization Horror Story: It Could Happen To You](http://search.cpan.org/dist/Locale-Maketext/lib/Locale/Maketext/TPJ13.pod?#A_Localization_Horror_Story:_It_Could_Happen_To_You)
