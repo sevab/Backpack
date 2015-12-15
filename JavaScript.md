@@ -6,7 +6,6 @@
 
 ### Misc Libraries
 * [QuaggaJS is a barcode-scanner entirely written in JavaScript](http://serratus.github.io/quaggaJS/)
-* [Form validations](https://www.codefellows.org/blogs/the-ten-best-javascript-libraries-for-form-validation-and-formatting)
 * [Rome: depenendency-free date & time picker](https://github.com/bevacqua/rome)
 * [A Javascript Natural Language Parser](loadfive.com/os/knwl/)
 
@@ -16,15 +15,6 @@
 * [NVD3](http://nvd3.org/)
 * [Timesheet.js: Simple Timeline Visualization](sbstjn.github.io/timesheet.js/)
 
-### MVCs & Other Libs
-#### Backbone
-* [Backbone integration w/ Rails + testing w/ Jasmine example](http://www.youtube.com/watch?v=FkLVl3gpJP4)
-* [Backbone Screencasts assuming Rails + CoffeeScript](http://www.backbonerails.com/)
-
-#### Ember.js
-* [Adding Flash Messages to an Ember App](https://medium.com/delightful-ui-for-ember-apps/adding-flash-messages-to-an-ember-app-437b13e49c1b)
-* [ember-cli addons categorized & reviewed](http://emberobserver.com)
-
 ### Node
+* [a short introduction to node.js](https://github.com/maxogden/art-of-node)
 * [Nodeschool](http://nodeschool.io/)
-
