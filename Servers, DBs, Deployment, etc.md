@@ -13,6 +13,7 @@
 [Phusion Passenger Server Optimization Guide + Caching](https://www.phusionpassenger.com/documentation/ServerOptimizationGuide.html)
 
 ## AWS
+* [5 AWS mistakes you should avoid](https://cloudonaut.io/5-aws-mistakes-you-should-avoid/)
 * [AWS Tips I Wish I'd Known Before I Started]( http://wblinks.com/notes/aws-tips-i-wish-id-known-before-i-started/)
 * [Ice: AWS Billing Stats](https://github.com/Netflix/ice)
 * [How to Save 90% on Your S3 Bill](http://www.appneta.com/blog/s3-list-get-bucket-default/)
