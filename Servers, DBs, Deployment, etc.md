@@ -19,6 +19,7 @@
 * [How to Save 90% on Your S3 Bill](http://www.appneta.com/blog/s3-list-get-bucket-default/)
 * [Switch from Heroku to AWS OpsWorks](http://www.stefanwrobel.com/heroku-to-opsworks)
 * [A Comprehensive Guide to Building a Scalable Web App on AWS](https://news.ycombinator.com/item?id=8926316)
+* [A Beginner's Guide To Scaling To 11 Million+ Users On Amazon's AWS](highscalability.com/blog/2016/1/11/a-beginners-guide-to-scaling-to-11-million-users-on-amazons.html)
 
 ## Sys
 * [Sysadmin Casts](http://sysadmincasts.com/)
