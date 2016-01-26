@@ -10,7 +10,7 @@
 * [Getting Started With Docker](http://serversforhackers.com/articles/2014/03/20/getting-started-with-docker/)
 
 ## Servers
-[Phusion Passenger Server Optimization Guide + Caching](https://www.phusionpassenger.com/documentation/ServerOptimizationGuide.html)
+* [Phusion Passenger Server Optimization Guide + Caching](https://www.phusionpassenger.com/documentation/ServerOptimizationGuide.html)
 
 ## AWS
 * [5 AWS mistakes you should avoid](https://cloudonaut.io/5-aws-mistakes-you-should-avoid/)
@@ -20,6 +20,9 @@
 * [Switch from Heroku to AWS OpsWorks](http://www.stefanwrobel.com/heroku-to-opsworks)
 * [A Comprehensive Guide to Building a Scalable Web App on AWS](https://news.ycombinator.com/item?id=8926316)
 * [A Beginner's Guide To Scaling To 11 Million+ Users On Amazon's AWS](http://highscalability.com/blog/2016/1/11/a-beginners-guide-to-scaling-to-11-million-users-on-amazons.html)
+
+## Heroku
+* [1 to 1000 - Scaling a Rails App on Heroku](https://joinhandshake.com/engineering/scaling/heroku/2016/01/15/1-to-1000-scaling-a-rails-app-on-heroku.html)
 
 ## Sys
 * [Sysadmin Casts](http://sysadmincasts.com/)
