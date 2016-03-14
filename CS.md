@@ -4,24 +4,27 @@
 
 # Machine Learning
 * [Bayesian ranking of items with up and downvotes or 5 star ratings](julesjacobs.github.io/2015/08/17/bayesian-scoring-of-ratings.html)
-* [Deep learning – Convolutional neural networks and feature extraction with Python](blog.christianperone.com/2015/08/convolutional-neural-networks-and-feature-extraction-with-python/)
 * [Using Ruby Machine Learning to Find Paris Hilton Quotes](datamelon.io/blog/2015/using-ruby-machine-learning-id-paris-hilton-quotes.html)
 * [A Very Short Ruby-based Markov Model Explained](https://www.omniref.com/github/omniref/hn_title_generator/0.1.0/symbols/HNTitleGenerator::MarkovModel#line=11)
 * [A Beginner’s Guide to Eigenvectors, Covariance, PCA and Entropy](http://deeplearning4j.org/eigenvector)
 * [Oxford University Machine Learning Course](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
 * [Ruby Natural Language Processing Resources](https://github.com/diasks2/ruby-nlp)
-* [Simple Neural Network implementation in Ruby](www.rubylab.io/2015/03/18/simple-neural-network-implenentation-in-ruby/)
 * [Using Machine Learning To Expose Haters.](kevinmcalear.com/thoughts/building-hater-news/)
-* [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
 * [Machine Learning Course by Tom Mitchell (read comments for more material & advise)](https://news.ycombinator.com/item?id=8771118)
 * [Deep Learning Reading List (jmozah.github.io)](https://news.ycombinator.com/item?id=8813484)
 * [The Open Source Data Science Masters: Curriculum for Data Science](datasciencemasters.org)
 * [List of ML resources in Russian](http://habrahabr.ru/post/243339/)
 * [Tutorial: Practical Data Science in Python (Spam Detection using text ML)](radimrehurek.com/data_science_python/)
-* [CS231n Convolutional Neural Networks for Visual Recognition](cs231n.github.io)
-* [Why are deep neural networks hard to train?](neuralnetworksanddeeplearning.com)](https://news.ycombinator.com/item?id=8719371)
 * [Data Science from Scratch](shop.oreilly.com/product/0636920033400.do)
+
+## Neural Networks
 * [How to implement a neural network: Part 1](peterroelants.github.io/posts/neural_network_implementation_part01/)
+* [Neural Networks Demystified (lumiverse.io)](http://lumiverse.io/series/neural-networks-demystified)
+* [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
+* [Simple Neural Network implementation in Ruby](www.rubylab.io/2015/03/18/simple-neural-network-implenentation-in-ruby/)
+* [CS231n Convolutional Neural Networks for Visual Recognition](cs231n.github.io)
+* [Why are deep neural networks hard to train?](neuralnetworksanddeeplearning.com) + [Discussion](https://news.ycombinator.com/item?id=8719371)
+* [Deep learning – Convolutional neural networks and feature extraction with Python](blog.christianperone.com/2015/08/convolutional-neural-networks-and-feature-extraction-with-python/)
 
 ## Torch
 * [Torch: a scientific computing framework with wide support for machine learning algorithms](http://torch.ch/)
