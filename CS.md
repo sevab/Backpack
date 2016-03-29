@@ -18,6 +18,7 @@
 * [Data Science from Scratch](shop.oreilly.com/product/0636920033400.do)
 
 ## Neural Networks
+* [A Neural Network in 11 lines of Python (Part 1)](https://iamtrask.github.io/2015/07/12/basic-python-network/)
 * [How to implement a neural network: Part 1](peterroelants.github.io/posts/neural_network_implementation_part01/)
 * [Neural Networks Demystified (lumiverse.io)](http://lumiverse.io/series/neural-networks-demystified)
 * [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
