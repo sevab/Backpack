@@ -14,6 +14,9 @@
 * [Salary Negotiations for Techies](jacquesmattheij.com/Salary+negotiations+for+techies#)
 * [Salary, Equity & Options Experience](https://news.ycombinator.com/item?id=9052727)
 
+## Job Interviews
+* [Ask HN: How do detect a crappy boss / toxic environment when interviewing?](https://news.ycombinator.com/item?id=11449133)
+
 
 # Culture
 - [Netflix Culture: Freedom & Responsibility](http://www.slideshare.net/reed2001/culture-1798664)
