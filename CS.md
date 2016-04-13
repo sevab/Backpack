@@ -26,6 +26,7 @@
 * [CS231n Convolutional Neural Networks for Visual Recognition](cs231n.github.io)
 * [Why are deep neural networks hard to train?](neuralnetworksanddeeplearning.com) + [Discussion](https://news.ycombinator.com/item?id=8719371)
 * [Deep learning – Convolutional neural networks and feature extraction with Python](blog.christianperone.com/2015/08/convolutional-neural-networks-and-feature-extraction-with-python/)
+* [Tinker With a Neural Network Right Here in Your Browser.](http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.79001&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification)
 
 ## Torch
 * [Torch: a scientific computing framework with wide support for machine learning algorithms](http://torch.ch/)
