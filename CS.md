@@ -16,6 +16,7 @@
 * [List of ML resources in Russian](http://habrahabr.ru/post/243339/)
 * [Tutorial: Practical Data Science in Python (Spam Detection using text ML)](radimrehurek.com/data_science_python/)
 * [Data Science from Scratch](shop.oreilly.com/product/0636920033400.do)
+* [TFLearn Examples](https://github.com/tflearn/tflearn/blob/0.1.0/examples/README.md)
 
 ## Neural Networks
 * [A Neural Network in 11 lines of Python (Part 1)](https://iamtrask.github.io/2015/07/12/basic-python-network/)
