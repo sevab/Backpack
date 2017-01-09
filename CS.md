@@ -3,6 +3,7 @@
 
 
 # Machine Learning
+* [Stanford Unsupervised Deep Learning Tutorial (2014)](http://ufldl.stanford.edu/)
 * [Bayesian ranking of items with up and downvotes or 5 star ratings](julesjacobs.github.io/2015/08/17/bayesian-scoring-of-ratings.html)
 * [Using Ruby Machine Learning to Find Paris Hilton Quotes](datamelon.io/blog/2015/using-ruby-machine-learning-id-paris-hilton-quotes.html)
 * [A Very Short Ruby-based Markov Model Explained](https://www.omniref.com/github/omniref/hn_title_generator/0.1.0/symbols/HNTitleGenerator::MarkovModel#line=11)
